@@ -27,10 +27,6 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href="https:[//www.linkedin.com/in/seuusuario/"](https://www.linkedin.com/in/eduarda-arag%C3%A3o-309046328/) target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
 </div>
 
  
