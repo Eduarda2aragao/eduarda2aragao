@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
   
-  <a href="mailto:[eduarda2aragao@gmail.com](https://mail.google.com/mail/u/0/?pli=1#inbox)">
+  <a href="mailto:[eduarda2aragao@gmail.com]">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
